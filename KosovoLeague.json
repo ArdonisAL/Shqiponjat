@@ -1,0 +1,128 @@
+{
+	"PlayerData": [
+		{
+			"ID": 1,
+			"Forename": "Lirim",
+			"Surname": "Kastrati",
+			"ImageURL": "https://img.a.transfermarkt.technology/portrait/header/343824-1689089049.jpg"
+		},
+		{
+			"ID": 2,
+			"Forename": "Edon",
+			"Surname": "Zhegrova",
+			"ImageURL": "https://img.a.transfermarkt.technology/portrait/header/292751-1664369830.jpg"
+		},
+		{
+			"ID": 3,
+			"Forename": "Bersant",
+			"Surname": "Celina",
+			"ImageURL": "https://img.a.transfermarkt.technology/portrait/header/213784-1701355147.jpg"
+		},
+		{
+			"ID": 4,
+			"Forename": "Vedat",
+			"Surname": "Muriqi",
+			"ImageURL": "https://img.a.transfermarkt.technology/portrait/header/186941-1701355049.jpg"
+		}
+	],
+	"ClubData": [
+		{
+			"ID": 1,
+			"Name": "KF Ballkani",
+			"ShortName": "BAL",
+			"ImageURL": "https://upload.wikimedia.org/wikipedia/en/6/62/KF_Ballkani_logo.png"
+		},
+		{
+			"ID": 2,
+			"Name": "FC Drita",
+			"ShortName": "DRI",
+			"ImageURL": "https://upload.wikimedia.org/wikipedia/en/d/d6/FC_Drita_logo.png"
+		},
+		{
+			"ID": 3,
+			"Name": "KF Llapi",
+			"ShortName": "LLA",
+			"ImageURL": "https://upload.wikimedia.org/wikipedia/en/e/ed/KF_Llapi_logo.png"
+		},
+		{
+			"ID": 4,
+			"Name": "KF Prishtina",
+			"ShortName": "PRI",
+			"ImageURL": "https://upload.wikimedia.org/wikipedia/en/f/f6/KF_Prishtina_logo.png"
+		},
+		{
+			"ID": 5,
+			"Name": "KF Gjilani",
+			"ShortName": "GJI",
+			"ImageURL": "https://upload.wikimedia.org/wikipedia/en/8/89/KF_Gjilani_logo.png"
+		},
+		{
+			"ID": 6,
+			"Name": "KF Malisheva",
+			"ShortName": "MAL",
+			"ImageURL": "https://upload.wikimedia.org/wikipedia/en/d/d0/KF_Malisheva_logo.png"
+		},
+		{
+			"ID": 7,
+			"Name": "KF Dukagjini",
+			"ShortName": "DUK",
+			"ImageURL": "https://upload.wikimedia.org/wikipedia/en/7/7c/KF_Dukagjini_logo.png"
+		},
+		{
+			"ID": 8,
+			"Name": "KF Feronikeli",
+			"ShortName": "FER",
+			"ImageURL": "https://upload.wikimedia.org/wikipedia/en/0/0a/KF_Feronikeli_logo.png"
+		}
+	],
+	"LeagueData": [
+		{
+			"ID": 28,
+			"Name": "Kosovo Superleague",
+			"ImageURL": "https://upload.wikimedia.org/wikipedia/en/d/df/Kosovo_Football_Federation_logo.png"
+		},
+		{
+			"ID": 29,
+			"Name": "Kosovo First League",
+			"ImageURL": "https://upload.wikimedia.org/wikipedia/en/d/df/Kosovo_Football_Federation_logo.png"
+		}
+	],
+	"CupData": [
+		{
+			"ID": 2,
+			"Name": "Kosovo Cup",
+			"ImageURL": "https://upload.wikimedia.org/wikipedia/en/d/df/Kosovo_Football_Federation_logo.png"
+		},
+		{
+			"ID": 3,
+			"Name": "Kosovo Supercup",
+			"ImageURL": "https://upload.wikimedia.org/wikipedia/en/d/df/Kosovo_Football_Federation_logo.png"
+		}
+	],
+	"StadiumData": [
+		{
+			"ID": 1,
+			"Name": "Stadiumi Fadil Vokrri"
+		},
+		{
+			"ID": 2,
+			"Name": "Stadiumi i Gjilanit"
+		},
+		{
+			"ID": 3,
+			"Name": "Stadiumi i qytetit, Suharekë"
+		},
+		{
+			"ID": 4,
+			"Name": "Stadiumi Rexhep Rexhepi"
+		},
+		{
+			"ID": 5,
+			"Name": "Stadiumi Zahir Pajaziti"
+		},
+		{
+			"ID": 6,
+			"Name": "Stadiumi Feronikeli"
+		}
+	]
+}
